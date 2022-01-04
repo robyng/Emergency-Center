@@ -73,6 +73,6 @@ Lydia Loy
   [Joe Mogannam](https://github.com/mogannam)<br/>
   [Lydia Loy](https://github.com/flowingcityloy)<br/>
 
-  Thank you!
+  Thank you!!
 
 
