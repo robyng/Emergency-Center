@@ -1,8 +1,5 @@
 # Emergency-Center
  
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
- 
- 
 
 ## Description
 Emergency Center app is a forum for local disaster and emergency incidents. You can view incidents that are reported for or near your current location. Sign-up to report first-hand accounts of the disaster. You can also comment on posts to update the incident to add more information as incidents unfold.
@@ -45,8 +42,8 @@ The following demonstrates the web application's appearance and functionality:
 
 
 ## Websites
-[Repository](https://github.com/flowingcityloy/Emergency-Center)<br />
-[Live site](https://emergency-center.herokuapp.com//)
+[Repository](https://github.com/robyng/Emergency-Center)<br />
+[Live site](https://polar-shelf-64274.herokuapp.com/)
 
 
 
