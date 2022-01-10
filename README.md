@@ -31,6 +31,7 @@ Recieve text messages of new comments that you post and comment on. Your text me
   * Semantic UI
   * axios
   * Twilio
+  * Google Maps API
 
 
 ## Usage 
